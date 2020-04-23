@@ -1,6 +1,7 @@
 # videopraktikum
-Info videopraktikumi kohta reedel (17.04) kell 16:00-17:30
+Info videopraktikumi kohta reedel (24.04) kell 16:00-17:30
 Videopraktikumiga saab liituda:
 
-Join URL: https://zoom.us/j/91201584201
+Join Zoom Meeting
+https://us02web.zoom.us/j/89309715249
 
